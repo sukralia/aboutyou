@@ -70,7 +70,7 @@ if(isset($_SESSION['username'])){
     </label>
   </div>
   <input type="submit" name="login" class="btn btn-lg btn-primary btn-block" value="Login">
-  <p class="mt-5 mb-3 text-muted">&copy; 2017-2020</p>
+  <p class="mt-5 mb-3 text-muted">&copy; 2020 Portfolio Website by Ashish</p>
 </form>
 </body>
 </html>
